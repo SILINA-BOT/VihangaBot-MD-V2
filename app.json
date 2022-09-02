@@ -37,9 +37,9 @@
     },
         
         "ALIVE_MSG" :{
-    "description" : "TYPE ALIVE MSG",
+    "description" : "TYPE IMRAN MSG",
     "required" : true,
-  "value" : "_I am alive now 😼_"
+  "value" : "_I am imran now 😼_"
     },
         
 "CALL_BLOCK" :{
