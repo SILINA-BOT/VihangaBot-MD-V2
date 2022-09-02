@@ -1,5 +1,5 @@
 {
-    "name": "IMR4N_B4 MD",
+    "name": "𝚒𝚖𝚛𝟺𝚗 MD",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/zim-bot/zimbot-v2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -69,73 +69,73 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "🥷"
     },
       
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+212 716-729998"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+212 716-729998"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+212 716-729998"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "𝚒𝚖𝚛𝟺𝚗 ツ"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "𝚒𝚖𝚛𝟺𝚗 ツ"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/H9D8DMSbrfRKx13TFJLtnC"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/H9D8DMSbrfRKx13TFJLtnC"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY 𝚒𝚖𝚛𝟺𝚗 MD"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY 𝚒𝚖𝚛𝟺𝚗 MD*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://telegra.ph/file/itachi2gs2.jpg"
 },
   
-  "YT_URL" :{
+  "IG_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "value" :"https://instagram.com/imr4n___b4?igshid=YmMyMTA2M2Y="
     }
     },
   
@@ -144,10 +144,10 @@
         "url": "heroku/nodejs"
       },
       {
-        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        "url": ""
       },
       {
-        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        "url": ""
       }
     ],
      "formation": {
